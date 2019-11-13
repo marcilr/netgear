@@ -1,0 +1,9 @@
+#.gitignore
+# Created Wed 13 Nov 2019 01:18:56 PM AKST
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore
+#
+.gitignore
+
+PRO-1000-GT/
