@@ -1,6 +1,6 @@
 # manifest
 # Created Mon Feb 19 09:42:25 AKST 2018
-# Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+# Copyright (C) 2016-2018 by Raymond E. Marcil <marcilr@gmail.com>
 #
 # Manifest for resync application
 #
@@ -20,4 +20,3 @@
 #
 # =====================================================================
 # =====================================================================
-ssh://git@github.com/marcilr/PRO-1000-GT   PRO-1000-GT
